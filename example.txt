@@ -1,0 +1,2 @@
+hello this is example.txt file.
+this is checking file for read the file 
